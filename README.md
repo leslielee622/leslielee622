@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @leslielee622
+- 👀 I’m interested in data engineering.
+- 🌱 I’m currently learning GitHub. That's why this repository is created.
